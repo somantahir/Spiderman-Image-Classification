@@ -1,1 +1,0 @@
-# Spiderman-Image-Classification
